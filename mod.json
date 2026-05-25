@@ -15,5 +15,9 @@
     "links": {
         "source": "https://github.com/MalikHw/layouter",
         "community": "https://discord.gg/G9bZ92eg2n"
+    },
+    "dependencies": {
+        "geode.node-ids": ">=v1.23.3",
+        "miskaa.notif": "1.0.4-beta.4"
     }
 }
