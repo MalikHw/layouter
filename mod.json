@@ -1,5 +1,5 @@
 {
-    "geode": "5.7.0",
+    "geode": "5.7.1",
     "gd": {
         "win": "2.2081",
         "mac": "2.2081",
@@ -7,14 +7,13 @@
         "ios": "2.2081"
     },
     "version": "1.0.0",
-    "id": "MalikHw.layouter",
+    "id": "malikhw47.layouter",
     "name": "layouter",
-    "developer": "MalikHw",
-    "description": "desc.",
-    "tags": ["yes", "yeah"],
+    "developer": "MalikHw47",
+    "description": "Make any level into a layout into the editor!",
+    "tags": ["editor", "offline"],
     "links": {
         "source": "https://github.com/MalikHw/layouter",
         "community": "https://discord.gg/G9bZ92eg2n"
-    },
-    "settings": {}
+    }
 }
